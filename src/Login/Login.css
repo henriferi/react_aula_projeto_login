@@ -1,0 +1,55 @@
+body {
+    height: 100vh;
+    background-image: linear-gradient(to left, rgba(39, 101, 151, 0.979), rgb(24, 241, 241));
+    background-repeat: no-repeat;
+    overflow: hidden;
+  }
+
+#formulario {
+    background-color: whitesmoke;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7%;
+    width: 600px;
+    height: 350px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#formulario h1 {
+    font-size: 20px;
+    padding: 3px;
+}
+
+input{
+    background-color: rgb(207, 207, 207);
+    border-radius: 30px;
+    margin: 3px;
+    padding: 15px;
+    border: none;
+    width: 200px;
+}
+
+#botao {
+    margin-top: 15px;
+    padding: 10px;
+    width: 220px;
+    border-radius: 30px;
+    color: whitesmoke;
+    background-color: rgba(24, 182, 182, 0.582);
+}
+
+#esqueceu {
+    color: red;
+}
+
+#footer{
+    margin-top: 45px;
+    font-size: 12px;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
